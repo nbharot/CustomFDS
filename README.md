@@ -1,5 +1,5 @@
 # CustomFDS<hr>
-An API for Easy Learning<hr>
+An API for Easy Learning
 <br>
  
 This repository contains software artifacts and documentation related to CustomFDS. It allows easy access to Machine Learning Frameworks and allows user to customize Feature Selection, Sampling and Algorithm. It initially performs Mean Imputation and Min-Max Scaling. 
